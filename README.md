@@ -32,3 +32,5 @@ I also use react testing library and have learn't how to use storybooks.
 - React/Next/Redux/Xstate
 - Node
 - Jest/Supertest/Cypress
+
+## Resume 👉 [Click me](https://drive.google.com/file/d/1PAJ4pV4z_PF2ILlKZuo0o6BybDJ5JCaR/view?usp=sharing)
