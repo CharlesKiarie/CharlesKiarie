@@ -33,4 +33,4 @@ I also use react testing library and have learn't how to use storybooks.
 - Node
 - Jest/Supertest/Cypress
 
-## Resume 👉 [Click me](https://drive.google.com/file/d/1PAJ4pV4z_PF2ILlKZuo0o6BybDJ5JCaR/view?usp=sharing)
+## Resume 👉 [Click me](https://drive.google.com/file/d/14rWKOo2FZ5Zxq32XelyTmvLnO4ZwmVYT/view?usp=sharing)
