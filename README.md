@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Who is [Charles Kiarie](https://www.linkedin.com/in/charles-kiarie-b4b952282/)?
+## HI
 I am full stack engineer with 4+ years of experience in the Javascript ecosystem. I am currently building a self hosted ecommerce platform so I am no stranger to tackling unusual and complex problems, I am a quick, self autonomous learner and always eager and happy to dig into new technologies. I also have experience in ui/ux so my solutions always consider usability first. 
 
 I am responsible for building and writing tests for features and future proofing them for as many edge cases as possible. I am usually working on shipping features that delight users, fixing issues that get in their way while keeping our codebase, infrastructure, and tooling modern and well-maintained.
